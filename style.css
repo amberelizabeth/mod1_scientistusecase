@@ -1,0 +1,26 @@
+/*
+
+*/
+
+h1{
+    color: rgb(7, 38, 68);
+    text-align: center;
+}
+
+#scientistimg{
+    
+}
+
+.alignimgleft{
+    float: left;
+    padding: 0 20px 0 0;
+}
+
+.pagewidth75{
+    max-width : 75%;
+}
+
+.center{
+    align-content: center;
+    margin: auto;
+}
