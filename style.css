@@ -1,26 +1,49 @@
-/*
-
-*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+}
 
 h1{
-    color: rgb(7, 38, 68);
+    color: rgb(10, 66, 122);
     text-align: center;
 }
 
-#scientistimg{
-    
+h2{
+    padding-top: 30px;
 }
 
-.alignimgleft{
+#scientist-img{
+    max-height: 250px;
+    border: 4px solid rgb(10, 66, 122);
+    margin-top: 20px;
+}
+
+.align-left{
     float: left;
-    padding: 0 20px 0 0;
+    margin: 0 20px 0 0;
 }
 
-.pagewidth75{
-    max-width : 75%;
+.page-container{
+    max-width : 1000px;
+    padding: 30px;
 }
 
 .center{
     align-content: center;
     margin: auto;
+}
+
+.top-section p{
+    font-size: 18px;
+    text-align: justify;
+    /*border: 1px solid rgb(10, 66, 122);*/
+    padding: 10px;
+}
+
+#scientist-top{
+    border: none;
+}
+
+#scientist-top td{
+    vertical-align: top;
 }
