@@ -47,3 +47,15 @@ h2{
 #scientist-top td{
     vertical-align: top;
 }
+
+
+/* td, th {
+    text-align: left;
+    display: block;
+    float: left;
+    width: 100%;
+  }
+  
+  thead {
+    display: none;
+  } */
