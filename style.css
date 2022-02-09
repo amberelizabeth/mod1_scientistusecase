@@ -84,7 +84,7 @@ h2{
 .about-box{
     background-color: #FC4F4F;
     padding: 140px 20px 20px 20px;
-    width: 45%;
+    width: 55%;
     margin: 10px auto;
 }
 .about-box-inner{
@@ -144,7 +144,7 @@ h2{
     padding: 20px;
     border: 3px solid #FF9F45;
     border-left: 30px solid #FF9F45;
-    width: 40%;
+    width: 60%;
     margin: 30px auto;
     text-align: left;
 }
